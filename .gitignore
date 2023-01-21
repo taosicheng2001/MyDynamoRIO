@@ -1,0 +1,3 @@
+# this is a gitignore file
+test/test_prog
+test/output_data
